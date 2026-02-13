@@ -2,11 +2,9 @@ import React, { createContext, useEffect } from 'react';
 import { io } from 'socket.io-client';
 
 export const SocketContext = createContext();
-
-const socket = io(import.meta.env.VITE_SOCKET_URL, {
+const socket = io("https://ridego-final-production.up.railway.app", {
   transports: ['websocket'],
 });
-
 const SocketProvider = ({ children }) => {
   useEffect(() => {
     socket.on('connect', () => {
