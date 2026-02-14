@@ -11,9 +11,8 @@ import { SocketContext } from '../context/SocketContext.jsx';
 import { UserDataContext } from '../context/UserContext.jsx';
 import { CaptainDataContext } from '../context/CaptainContext.jsx';
 import LiveTracking from '../components/LiveTracking'
-
-
 import RideGoLogo from '../assets/ridelogo.png';
+import axios from 'axios';
 
 
 // ✅ Register GSAP plugin (must come after imports)
