@@ -61,15 +61,13 @@ The project is split into two independently deployable applications:
 
 ## Screenshots
 
-
 | Start Screen | Find a Trip | Choose Vehicle | Live Ride Tracking |
 |---|---|---|---|
-| (/ride1.png) | `/ride2.png` | `/ride3.png` | `/ride22.png` |
+| ![](ride1.png) | ![](ride2.png) | ![](ride3.png) | ![](ride22.png) |
 
 | Captain — Incoming Request | Captain — OTP Confirm | Captain — Finish Ride |
 |---|---|---|
-| `/ride3.png` | `/ride33.png` | 
----
+| ![](ride3.png) | ![](ride33.png) | ![](ride44.png) |
 
 ## Demo
 
