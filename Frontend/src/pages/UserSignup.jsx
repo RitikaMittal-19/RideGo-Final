@@ -113,7 +113,7 @@ const {user,setUser}=React.useContext(UserDataContext);
       </form>
         </div>
         <div className='p-7 flex items-center justify-center' >
-      <p>© 2025 Uber Technologies Inc.</p>
+      <p>© 2026 RideGo Technologies Inc.</p>
         </div>
     </div>
   )
