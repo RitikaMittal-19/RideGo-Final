@@ -61,22 +61,20 @@ The project is split into two independently deployable applications:
 
 ## Screenshots
 
-> _Add real screenshots/GIFs here before publishing — placeholders below._
 
 | Start Screen | Find a Trip | Choose Vehicle | Live Ride Tracking |
 |---|---|---|---|
-| `docs/screenshots/start.png` | `docs/screenshots/find-trip.png` | `docs/screenshots/vehicle-panel.png` | `docs/screenshots/live-tracking.png` |
+| `/ride1.png` | `/ride2.png` | `/ride3.png` | `/ride22.png` |
 
 | Captain — Incoming Request | Captain — OTP Confirm | Captain — Finish Ride |
 |---|---|---|
-| `docs/screenshots/captain-ride-popup.png` | `docs/screenshots/captain-confirm-otp.png` | `docs/screenshots/captain-finish-ride.png` |
-
+| `/ride3.png` | `/ride33.png` | 
 ---
 
 ## Demo
 
 - **Backend (live API):** `https://ridego-final-production.up.railway.app` — deployed on [Railway]
-- **Frontend (live app):** _add your deployed frontend URL here (e.g. Vercel/Netlify)_
+- **Frontend (live app):** (https://ride-go-final.vercel.app/)
 
 ---
 
